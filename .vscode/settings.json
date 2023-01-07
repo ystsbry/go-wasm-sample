@@ -6,6 +6,5 @@
   "go.testEnvVars": {
     "GOARCH":"wasm",
     "GOOS":"js",
-},
-  "installDependenciesWhenBuilding": false
+  }
 }
